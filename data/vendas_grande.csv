@@ -1,0 +1,1001 @@
+data,vendedor,produto,estado,valor,quantidade
+2024-09-15,Maria Fernanda,Notebook,PR,2746.87,8
+2024-04-17,Enzo Gabriel,Teclado,RJ,6664.86,3
+2024-04-16,Luiza,Smartphone,SC,5177.56,8
+2024-05-11,Olivia,Monitor,PR,4270.88,5
+2024-06-28,Marcos Vinicius,Mouse,SC,1260.93,1
+2024-07-04,Olivia,Tablet,SP,1260.76,7
+2024-10-18,Olivia,Impressora,BA,594.97,5
+2024-11-24,Benjamin,Tablet,BA,6090.0,6
+2024-04-15,Olivia,Smartphone,PR,4287.58,6
+2024-11-08,Enzo Gabriel,Teclado,RJ,5014.89,8
+2024-06-21,Maria Fernanda,Teclado,RS,339.97,9
+2025-01-08,Olivia,Mouse,MG,6795.39,2
+2024-12-13,Julia,Mouse,PE,5860.61,9
+2025-01-02,Nina,Notebook,RS,1643.91,9
+2024-11-02,Enzo Gabriel,Impressora,RJ,1436.41,7
+2024-09-14,Emanuel,Impressora,PR,1447.15,1
+2024-06-29,Levi,Smartphone,PR,2268.85,7
+2024-09-26,Luiza,Tablet,RJ,3768.34,5
+2024-11-19,Luiza,Notebook,BA,3137.23,6
+2024-07-22,Enzo Gabriel,Teclado,RS,2180.36,7
+2025-02-13,Olivia,Notebook,SC,4360.6,5
+2025-03-08,Olivia,Tablet,SP,1148.56,7
+2024-04-07,Nina,Teclado,BA,2186.58,9
+2025-01-24,Emanuel,Mouse,SP,2691.26,3
+2025-02-11,Luiza,Monitor,MG,3301.28,8
+2024-06-06,Nina,Monitor,BA,5539.2,2
+2025-01-01,Olivia,Mouse,BA,1557.78,7
+2024-09-16,Olivia,Smartphone,PR,3696.79,2
+2024-08-15,Maria Fernanda,Notebook,PR,4228.42,4
+2024-07-21,Olivia,Teclado,SP,515.86,7
+2024-06-04,Nina,Mouse,MG,4331.3,3
+2024-06-27,Levi,Impressora,MG,1359.56,2
+2025-01-26,Olivia,Mouse,SC,642.35,7
+2024-08-13,Guilherme,Smartphone,RJ,6652.42,1
+2024-05-14,Emanuel,Notebook,MG,6766.3,8
+2024-05-11,Marcos Vinicius,Mouse,SP,5697.1,3
+2024-08-30,Fernanda,Impressora,RJ,2271.37,2
+2024-05-12,Davi,Tablet,RS,864.17,3
+2024-08-22,Luiza,Impressora,SC,4852.78,5
+2025-02-28,Fernanda,Mouse,SC,3193.04,8
+2024-08-16,Fernanda,Teclado,PE,1029.86,7
+2024-11-25,Benjamin,Impressora,PR,3567.2,7
+2024-07-16,Olivia,Notebook,MG,433.84,7
+2025-02-12,Levi,Impressora,PR,6383.38,8
+2024-04-21,Luigi,Teclado,BA,1959.7,1
+2025-01-13,Marcos Vinicius,Impressora,PR,4705.15,4
+2024-09-30,Benjamin,Notebook,RJ,2319.64,6
+2024-10-30,Olivia,Tablet,SP,3736.46,9
+2024-05-23,Fernanda,Teclado,MG,3917.63,2
+2025-03-29,Luigi,Monitor,MG,1457.01,1
+2024-08-30,Enzo Gabriel,Mouse,SP,6793.18,2
+2024-05-05,Enzo Gabriel,Tablet,RJ,5470.9,7
+2024-11-05,Levi,Notebook,BA,6588.59,3
+2024-07-27,Enzo Gabriel,Teclado,PE,6284.83,2
+2025-02-21,Luigi,Mouse,SC,4265.72,7
+2024-12-05,Davi,Tablet,PE,6468.74,2
+2024-12-01,Luigi,Notebook,PE,801.75,3
+2025-03-14,Emanuel,Impressora,SC,1532.68,7
+2025-03-05,Marcos Vinicius,Monitor,BA,507.55,4
+2024-08-23,Fernanda,Impressora,RS,2412.25,1
+2024-11-15,Luiza,Monitor,RJ,2843.01,5
+2024-06-18,Olivia,Notebook,PR,2045.17,9
+2025-01-03,Guilherme,Monitor,SC,5835.42,8
+2024-05-02,Nina,Tablet,RJ,2625.92,9
+2024-04-22,Enzo Gabriel,Mouse,BA,2110.35,9
+2024-12-17,Julia,Impressora,PE,3890.33,7
+2024-07-02,Levi,Monitor,BA,1158.28,4
+2025-01-30,Enzo Gabriel,Mouse,SP,5654.94,5
+2024-07-26,Nina,Smartphone,RS,706.94,1
+2024-05-05,Marcos Vinicius,Monitor,SC,6910.83,1
+2025-03-03,Davi,Smartphone,SP,5451.26,3
+2024-07-04,Maria Fernanda,Mouse,SP,1551.27,8
+2025-03-07,Emanuel,Teclado,RS,237.55,2
+2024-05-14,Julia,Mouse,BA,5745.14,4
+2024-08-30,Davi,Tablet,RS,5006.63,2
+2024-07-21,Luigi,Teclado,MG,5157.25,5
+2024-09-28,Emanuel,Impressora,BA,5444.64,9
+2024-12-07,Olivia,Teclado,BA,703.5,1
+2025-02-22,Olivia,Impressora,PR,2637.57,5
+2024-08-24,Enzo Gabriel,Monitor,RJ,987.91,9
+2024-06-07,Luiza,Monitor,SP,6069.1,1
+2024-08-26,Maria Fernanda,Monitor,PE,4438.43,9
+2024-08-20,Olivia,Impressora,SC,2450.11,8
+2024-06-25,Fernanda,Mouse,MG,632.2,4
+2024-12-21,Marcos Vinicius,Teclado,MG,2314.68,5
+2024-07-17,Enzo Gabriel,Tablet,SC,2411.25,5
+2025-01-02,Davi,Tablet,RS,5161.32,6
+2025-04-03,Olivia,Impressora,PR,4535.39,7
+2024-12-26,Davi,Smartphone,RJ,6233.05,8
+2024-12-12,Enzo Gabriel,Impressora,SC,3411.06,8
+2024-05-02,Levi,Notebook,SP,1013.24,2
+2024-11-27,Marcos Vinicius,Tablet,SC,5050.06,9
+2024-12-07,Guilherme,Monitor,SP,5373.34,7
+2024-06-10,Maria Fernanda,Smartphone,PE,4016.68,4
+2024-10-29,Davi,Impressora,RJ,5442.58,4
+2025-01-13,Luigi,Monitor,PR,3557.81,8
+2024-07-09,Benjamin,Teclado,SC,3754.58,4
+2024-06-07,Luigi,Teclado,SC,3107.28,6
+2024-10-01,Luigi,Mouse,SC,372.85,5
+2024-08-30,Olivia,Monitor,BA,933.66,3
+2024-07-18,Maria Fernanda,Tablet,RJ,413.72,2
+2025-03-30,Marcos Vinicius,Notebook,SC,4527.59,9
+2024-12-09,Olivia,Monitor,SP,2337.62,9
+2024-12-28,Julia,Impressora,PR,3658.28,1
+2024-11-07,Maria Fernanda,Tablet,MG,6371.45,3
+2024-06-29,Maria Fernanda,Smartphone,PE,1895.19,8
+2024-12-26,Enzo Gabriel,Monitor,PR,2990.6,6
+2024-08-08,Emanuel,Smartphone,RJ,5337.75,5
+2025-02-26,Maria Fernanda,Tablet,SC,1755.83,5
+2025-01-28,Benjamin,Impressora,RJ,723.46,6
+2025-01-31,Nina,Tablet,RS,2170.31,7
+2024-04-26,Olivia,Tablet,SC,1296.3,1
+2024-07-02,Olivia,Tablet,SC,6521.94,9
+2025-02-18,Benjamin,Teclado,RJ,5695.22,3
+2024-04-17,Guilherme,Mouse,SC,4507.15,4
+2025-02-11,Levi,Tablet,BA,6125.93,1
+2024-08-05,Marcos Vinicius,Teclado,PR,5664.97,3
+2024-09-07,Julia,Notebook,RS,1468.68,2
+2024-07-17,Maria Fernanda,Teclado,PR,6269.4,2
+2024-04-30,Olivia,Smartphone,MG,3867.53,1
+2024-06-25,Nina,Notebook,RJ,5690.59,8
+2025-03-25,Olivia,Smartphone,RJ,6293.42,3
+2024-11-11,Maria Fernanda,Mouse,RS,2362.42,3
+2025-03-11,Luigi,Monitor,PR,948.35,6
+2025-01-08,Davi,Monitor,PR,1749.96,8
+2024-08-05,Fernanda,Teclado,MG,3104.33,9
+2024-06-26,Fernanda,Impressora,RS,5762.5,9
+2024-12-15,Luiza,Smartphone,RJ,6052.97,4
+2024-10-15,Olivia,Mouse,MG,247.27,5
+2024-09-05,Davi,Monitor,BA,3673.08,2
+2025-03-14,Luiza,Mouse,RS,3038.39,9
+2025-03-26,Fernanda,Mouse,MG,1710.33,8
+2024-12-10,Luigi,Monitor,MG,1015.08,3
+2024-09-30,Levi,Monitor,RJ,2495.78,9
+2024-05-30,Marcos Vinicius,Impressora,MG,6611.79,3
+2024-07-16,Enzo Gabriel,Notebook,PE,2397.78,9
+2024-05-29,Olivia,Notebook,PE,3727.78,2
+2024-07-09,Julia,Tablet,PE,4980.53,9
+2025-01-19,Emanuel,Smartphone,PR,2672.68,8
+2024-11-09,Julia,Monitor,PR,6808.12,9
+2024-10-31,Olivia,Mouse,MG,6744.64,5
+2024-07-16,Luigi,Smartphone,PE,1912.12,2
+2025-01-20,Olivia,Tablet,RJ,3581.29,8
+2024-11-18,Maria Fernanda,Mouse,PE,2245.97,6
+2024-09-18,Guilherme,Teclado,PE,2136.92,8
+2025-03-19,Levi,Tablet,BA,450.83,5
+2024-11-17,Julia,Monitor,BA,4345.04,2
+2024-09-07,Julia,Teclado,SP,3618.22,6
+2024-08-23,Maria Fernanda,Teclado,PR,550.06,5
+2024-06-29,Guilherme,Tablet,RJ,2094.8,5
+2024-05-28,Benjamin,Monitor,BA,6376.21,1
+2024-10-19,Marcos Vinicius,Mouse,PE,1829.02,2
+2024-10-13,Benjamin,Teclado,PE,1185.29,8
+2024-05-10,Olivia,Tablet,SP,3528.28,3
+2025-01-23,Olivia,Tablet,SP,6902.42,3
+2024-04-23,Nina,Mouse,PR,1845.98,8
+2025-03-05,Nina,Monitor,BA,4770.52,8
+2024-05-17,Marcos Vinicius,Tablet,RJ,5379.01,2
+2024-06-03,Olivia,Tablet,RJ,1815.94,8
+2024-12-04,Emanuel,Tablet,SC,5151.87,1
+2024-06-06,Levi,Smartphone,PE,2700.93,6
+2025-02-06,Julia,Notebook,SP,4499.68,8
+2024-12-25,Emanuel,Mouse,PE,4508.0,3
+2024-09-15,Levi,Smartphone,RS,3843.27,8
+2024-11-22,Luigi,Tablet,PR,813.97,1
+2024-04-29,Olivia,Notebook,PE,5880.06,9
+2024-09-01,Benjamin,Mouse,MG,2381.3,9
+2024-08-31,Nina,Teclado,SP,1468.33,5
+2024-11-22,Guilherme,Impressora,PE,477.27,4
+2024-10-03,Enzo Gabriel,Mouse,RJ,4218.07,6
+2024-10-27,Fernanda,Smartphone,PR,4807.44,7
+2024-07-11,Luiza,Smartphone,RJ,312.8,5
+2024-11-05,Davi,Smartphone,MG,3682.23,9
+2025-03-05,Enzo Gabriel,Mouse,SP,1740.17,3
+2024-04-09,Benjamin,Monitor,RS,4587.17,7
+2024-12-25,Maria Fernanda,Tablet,PE,1385.69,5
+2025-01-09,Benjamin,Mouse,PE,4898.38,7
+2024-05-19,Fernanda,Teclado,MG,2829.8,2
+2024-12-25,Maria Fernanda,Impressora,PR,6569.76,4
+2025-03-14,Levi,Teclado,PR,1135.14,2
+2024-10-30,Emanuel,Teclado,BA,2519.25,7
+2025-01-21,Enzo Gabriel,Tablet,SC,971.62,2
+2024-07-17,Levi,Notebook,SC,6487.92,1
+2025-01-28,Levi,Impressora,PR,6165.91,9
+2024-12-09,Emanuel,Smartphone,SP,1954.0,1
+2024-08-15,Guilherme,Tablet,PR,4687.89,8
+2024-05-18,Nina,Smartphone,RJ,5757.11,2
+2024-07-27,Marcos Vinicius,Tablet,PR,3975.37,8
+2024-09-20,Nina,Smartphone,RJ,3801.62,3
+2024-06-05,Davi,Tablet,SC,1844.6,6
+2024-09-28,Luiza,Notebook,BA,833.1,3
+2024-04-06,Maria Fernanda,Mouse,BA,6301.07,7
+2025-01-10,Olivia,Teclado,MG,6322.84,9
+2025-03-11,Enzo Gabriel,Smartphone,PR,4505.09,2
+2025-01-09,Maria Fernanda,Tablet,RJ,2505.4,5
+2024-07-16,Julia,Notebook,MG,2574.63,6
+2024-10-16,Nina,Notebook,PR,5136.5,4
+2025-01-25,Fernanda,Teclado,BA,6300.35,4
+2024-06-13,Marcos Vinicius,Tablet,SC,6232.19,4
+2024-10-19,Fernanda,Mouse,MG,5503.15,2
+2025-03-25,Maria Fernanda,Smartphone,RJ,4565.82,4
+2024-05-16,Luigi,Mouse,BA,772.15,1
+2025-03-09,Enzo Gabriel,Impressora,SC,1299.08,6
+2024-12-03,Marcos Vinicius,Impressora,PR,6310.17,1
+2024-07-29,Levi,Monitor,MG,4323.72,6
+2025-02-25,Benjamin,Notebook,RJ,262.54,1
+2024-12-09,Guilherme,Impressora,SC,890.01,6
+2024-10-19,Luiza,Notebook,PR,4711.81,8
+2024-11-27,Olivia,Teclado,SP,234.42,2
+2024-06-21,Julia,Tablet,PR,1293.49,2
+2024-06-03,Olivia,Monitor,BA,3931.39,4
+2024-08-28,Marcos Vinicius,Monitor,MG,4904.89,3
+2025-01-26,Nina,Monitor,RS,4633.34,4
+2024-06-06,Fernanda,Tablet,PR,1725.03,7
+2024-10-31,Benjamin,Smartphone,PE,5042.82,1
+2025-02-01,Nina,Notebook,RS,1813.29,6
+2025-03-29,Julia,Tablet,RS,2412.72,3
+2024-10-27,Enzo Gabriel,Impressora,MG,5276.14,7
+2025-03-27,Davi,Monitor,MG,4617.5,2
+2024-04-05,Maria Fernanda,Notebook,RJ,5974.72,2
+2024-11-23,Marcos Vinicius,Impressora,BA,4671.77,4
+2024-08-08,Davi,Notebook,RJ,4064.5,1
+2024-10-11,Maria Fernanda,Monitor,SP,836.99,3
+2024-04-12,Nina,Monitor,PR,2700.47,9
+2024-05-18,Emanuel,Notebook,MG,2003.38,7
+2025-03-31,Olivia,Teclado,SC,1859.13,7
+2024-08-23,Benjamin,Mouse,MG,6816.47,4
+2025-03-12,Luigi,Mouse,MG,2873.06,2
+2025-02-21,Fernanda,Notebook,MG,6265.92,4
+2025-02-12,Benjamin,Smartphone,MG,4491.74,6
+2024-08-02,Nina,Smartphone,PE,5604.72,3
+2024-07-06,Fernanda,Impressora,SP,3617.93,1
+2024-04-27,Julia,Teclado,SC,4122.95,8
+2024-07-07,Nina,Tablet,PR,3549.12,5
+2025-03-11,Julia,Notebook,RS,1527.65,5
+2024-11-11,Luiza,Smartphone,PE,5112.67,4
+2024-05-05,Emanuel,Notebook,BA,2109.25,6
+2024-05-08,Luigi,Teclado,PE,365.35,3
+2025-01-14,Guilherme,Impressora,RS,4589.21,9
+2024-10-10,Luiza,Monitor,RS,1404.35,5
+2025-02-15,Enzo Gabriel,Teclado,BA,6595.12,3
+2024-05-01,Julia,Teclado,PE,6686.71,1
+2025-01-25,Luigi,Impressora,RS,6421.08,6
+2024-10-28,Julia,Teclado,PR,2717.08,2
+2025-01-27,Davi,Smartphone,PE,305.1,3
+2024-05-23,Fernanda,Impressora,PE,6512.57,1
+2024-05-24,Marcos Vinicius,Teclado,BA,3111.65,9
+2024-12-17,Olivia,Monitor,SC,6773.25,8
+2024-10-06,Luiza,Monitor,SC,6752.62,2
+2024-11-04,Olivia,Monitor,MG,6000.46,8
+2024-06-08,Julia,Tablet,RS,2202.25,9
+2024-07-16,Emanuel,Impressora,MG,2818.66,1
+2024-10-26,Enzo Gabriel,Teclado,BA,5987.73,5
+2025-03-09,Enzo Gabriel,Monitor,SP,2355.07,8
+2024-11-26,Olivia,Tablet,PE,1352.55,2
+2024-09-16,Guilherme,Teclado,PR,3986.25,4
+2024-06-26,Davi,Teclado,RJ,6565.85,7
+2025-03-31,Enzo Gabriel,Notebook,RJ,4933.0,3
+2024-10-31,Fernanda,Teclado,BA,4076.42,5
+2025-01-23,Nina,Mouse,RJ,860.8,8
+2025-01-13,Fernanda,Notebook,MG,4382.05,3
+2024-12-28,Benjamin,Impressora,BA,6932.37,4
+2024-06-22,Benjamin,Smartphone,PE,1152.57,9
+2025-01-06,Maria Fernanda,Mouse,MG,3724.64,7
+2024-08-04,Guilherme,Smartphone,SC,6166.14,1
+2024-09-06,Nina,Tablet,RJ,5237.23,4
+2024-12-21,Benjamin,Mouse,RS,4939.71,4
+2024-12-13,Marcos Vinicius,Notebook,PE,4976.89,9
+2024-08-28,Nina,Smartphone,PR,2644.54,6
+2024-09-22,Davi,Smartphone,SP,2196.42,9
+2025-03-20,Emanuel,Smartphone,SC,5703.66,6
+2024-10-23,Levi,Teclado,SP,5708.77,6
+2024-09-27,Olivia,Notebook,SC,6096.09,5
+2024-05-21,Julia,Smartphone,PR,6410.04,5
+2024-07-10,Nina,Notebook,RS,3677.13,2
+2024-07-01,Fernanda,Monitor,SC,3610.31,8
+2024-04-29,Olivia,Monitor,RJ,5628.41,8
+2024-08-14,Olivia,Mouse,PR,4619.75,1
+2024-04-13,Olivia,Teclado,RS,4973.37,8
+2024-11-19,Olivia,Monitor,SP,5611.39,5
+2024-11-06,Marcos Vinicius,Tablet,PR,6252.04,2
+2024-07-03,Levi,Notebook,RJ,2498.37,2
+2024-11-19,Maria Fernanda,Smartphone,PR,2753.96,6
+2024-06-29,Maria Fernanda,Tablet,MG,839.08,9
+2024-04-07,Luigi,Mouse,MG,4132.3,1
+2024-05-02,Guilherme,Tablet,SP,444.41,6
+2025-01-04,Julia,Mouse,BA,3366.07,9
+2024-12-06,Nina,Impressora,PE,3889.98,8
+2024-04-27,Guilherme,Monitor,MG,2148.48,6
+2024-07-02,Enzo Gabriel,Notebook,PE,4217.67,3
+2024-05-01,Olivia,Mouse,PE,407.4,8
+2025-03-22,Olivia,Smartphone,SP,453.97,9
+2024-04-17,Enzo Gabriel,Tablet,RJ,5793.68,1
+2025-03-04,Luigi,Impressora,SP,2649.3,9
+2024-08-11,Luiza,Impressora,BA,1064.01,6
+2024-05-02,Emanuel,Mouse,RS,3751.25,6
+2024-10-21,Nina,Teclado,MG,5435.96,4
+2024-07-06,Olivia,Mouse,SC,1667.58,1
+2024-07-22,Emanuel,Impressora,RJ,4435.66,8
+2024-12-20,Olivia,Smartphone,BA,780.36,2
+2024-10-10,Luiza,Monitor,RS,551.44,1
+2024-06-27,Enzo Gabriel,Notebook,BA,3813.21,2
+2024-10-31,Olivia,Teclado,RJ,3876.32,1
+2024-05-26,Maria Fernanda,Smartphone,SP,4534.52,1
+2025-01-10,Luiza,Mouse,RS,5137.42,9
+2025-04-03,Olivia,Smartphone,SC,6835.79,1
+2025-03-13,Enzo Gabriel,Tablet,PE,3710.84,4
+2024-11-12,Julia,Impressora,RJ,2396.1,6
+2024-11-14,Luiza,Smartphone,RJ,5607.27,7
+2024-10-05,Davi,Notebook,PE,2041.66,2
+2024-07-08,Luigi,Notebook,SP,3185.01,6
+2025-02-03,Enzo Gabriel,Smartphone,RS,733.5,7
+2024-10-05,Nina,Impressora,MG,372.39,2
+2025-02-12,Olivia,Tablet,BA,6746.01,2
+2024-09-10,Marcos Vinicius,Teclado,SC,5884.66,7
+2024-06-17,Maria Fernanda,Mouse,SP,4932.62,1
+2024-05-11,Guilherme,Impressora,PR,2980.88,8
+2024-05-12,Olivia,Teclado,RS,1378.4,3
+2024-12-16,Nina,Tablet,SC,1263.77,6
+2024-09-19,Benjamin,Monitor,MG,1901.65,9
+2024-08-20,Olivia,Notebook,RJ,3934.74,6
+2024-09-16,Julia,Monitor,PR,5059.25,9
+2024-09-11,Julia,Mouse,RJ,4689.34,7
+2024-10-03,Emanuel,Tablet,SP,2103.55,9
+2025-03-06,Emanuel,Mouse,SC,6693.08,2
+2025-01-13,Guilherme,Monitor,PE,5217.7,8
+2024-04-26,Olivia,Tablet,SP,3969.61,8
+2024-12-22,Fernanda,Teclado,SC,4359.7,2
+2024-12-14,Guilherme,Teclado,PR,3053.28,4
+2024-12-11,Fernanda,Monitor,BA,1884.57,7
+2024-05-13,Levi,Monitor,SP,2620.61,4
+2024-04-28,Olivia,Notebook,PR,5353.35,4
+2024-09-08,Enzo Gabriel,Teclado,RJ,297.88,6
+2025-01-12,Enzo Gabriel,Notebook,PR,989.29,6
+2024-08-14,Maria Fernanda,Monitor,RS,512.82,3
+2025-02-09,Levi,Mouse,RJ,476.96,9
+2025-03-05,Luigi,Tablet,PR,6017.13,2
+2024-05-17,Levi,Teclado,MG,4984.87,6
+2024-07-10,Levi,Tablet,SP,3424.38,7
+2024-06-18,Guilherme,Notebook,PR,865.27,9
+2024-06-17,Davi,Notebook,PR,3542.99,3
+2024-10-30,Olivia,Smartphone,MG,3419.61,3
+2024-09-26,Luiza,Mouse,PE,1377.77,7
+2024-05-29,Maria Fernanda,Impressora,PE,3150.19,4
+2024-09-15,Maria Fernanda,Impressora,MG,2909.83,8
+2024-06-15,Maria Fernanda,Teclado,MG,4387.78,7
+2024-07-22,Enzo Gabriel,Teclado,RJ,4518.64,5
+2024-10-01,Luiza,Notebook,PE,508.07,7
+2024-07-11,Levi,Impressora,SP,2747.37,3
+2025-03-10,Olivia,Mouse,BA,4455.85,2
+2025-03-29,Luigi,Impressora,RS,3621.33,6
+2024-05-04,Fernanda,Tablet,SP,6024.13,2
+2024-09-24,Davi,Teclado,RS,4679.12,3
+2025-02-12,Enzo Gabriel,Notebook,SP,1307.95,6
+2025-03-05,Olivia,Impressora,PR,679.87,5
+2025-03-03,Olivia,Impressora,BA,4568.45,8
+2024-11-04,Olivia,Smartphone,SC,380.28,9
+2024-05-13,Nina,Monitor,PE,4183.27,3
+2024-04-24,Guilherme,Teclado,BA,6593.57,3
+2024-12-14,Benjamin,Mouse,SP,4113.22,3
+2024-10-31,Levi,Monitor,RS,2839.56,6
+2025-02-23,Benjamin,Tablet,BA,4574.36,1
+2024-04-10,Marcos Vinicius,Smartphone,PR,3316.12,7
+2024-05-11,Guilherme,Teclado,SP,3910.19,1
+2025-03-30,Olivia,Monitor,PR,6601.96,5
+2025-01-22,Davi,Mouse,BA,2825.5,8
+2025-02-28,Julia,Impressora,RJ,6736.1,4
+2024-07-05,Enzo Gabriel,Monitor,PR,6356.38,5
+2024-06-08,Guilherme,Notebook,SC,1531.38,4
+2024-09-09,Fernanda,Monitor,SC,671.66,4
+2024-10-10,Davi,Tablet,PE,885.29,8
+2024-10-08,Davi,Monitor,SC,323.91,2
+2024-06-27,Nina,Tablet,PR,842.21,1
+2025-03-06,Enzo Gabriel,Tablet,MG,4844.45,3
+2024-09-07,Luiza,Mouse,PE,684.08,9
+2025-03-21,Maria Fernanda,Notebook,PE,2369.03,4
+2024-04-27,Nina,Impressora,PR,5945.15,5
+2024-06-07,Davi,Smartphone,BA,358.25,2
+2024-08-30,Luiza,Tablet,RJ,5738.39,4
+2024-04-05,Enzo Gabriel,Monitor,SC,2116.61,2
+2024-09-03,Julia,Mouse,RJ,1003.52,2
+2024-07-16,Fernanda,Monitor,SC,4937.81,4
+2025-03-30,Davi,Tablet,MG,4476.81,6
+2025-02-03,Olivia,Mouse,BA,6166.81,7
+2025-02-03,Benjamin,Monitor,PR,5198.48,3
+2024-09-28,Levi,Impressora,RJ,5663.67,3
+2024-07-24,Guilherme,Impressora,RJ,2117.84,6
+2024-09-16,Guilherme,Teclado,PR,1406.59,3
+2024-12-31,Olivia,Notebook,BA,5304.18,2
+2025-01-13,Davi,Monitor,BA,5686.48,8
+2025-02-03,Levi,Notebook,PE,6935.43,5
+2024-11-06,Julia,Tablet,SC,3005.8,1
+2024-12-18,Luiza,Tablet,MG,2729.72,3
+2025-01-09,Benjamin,Tablet,PE,5479.61,8
+2024-10-11,Levi,Notebook,PR,2517.46,4
+2024-06-04,Luiza,Impressora,PE,6529.15,7
+2024-06-17,Levi,Monitor,SP,6037.21,2
+2024-07-29,Marcos Vinicius,Impressora,PR,3117.16,7
+2024-06-28,Julia,Teclado,SC,5305.92,5
+2024-04-27,Fernanda,Impressora,BA,5330.89,5
+2024-11-15,Fernanda,Notebook,SP,901.24,6
+2025-01-15,Guilherme,Mouse,RJ,6337.36,9
+2024-11-01,Marcos Vinicius,Impressora,SC,3635.72,6
+2024-04-28,Levi,Teclado,PR,5819.91,8
+2025-01-20,Olivia,Monitor,MG,2376.34,7
+2024-08-04,Olivia,Monitor,SP,6289.56,9
+2024-04-27,Fernanda,Notebook,MG,2846.57,4
+2024-04-24,Nina,Smartphone,PE,273.7,2
+2024-11-17,Maria Fernanda,Teclado,SP,6356.6,7
+2024-10-07,Olivia,Tablet,MG,820.75,6
+2024-10-17,Guilherme,Teclado,RJ,2371.33,1
+2025-03-28,Benjamin,Impressora,RS,6660.42,9
+2025-03-02,Olivia,Monitor,PR,6664.13,9
+2024-10-28,Marcos Vinicius,Mouse,PR,4099.38,2
+2024-06-05,Olivia,Monitor,SC,4496.49,3
+2024-04-27,Luiza,Impressora,SP,3249.43,5
+2024-10-19,Emanuel,Notebook,MG,2193.83,5
+2024-05-06,Olivia,Smartphone,PE,2434.92,1
+2025-03-01,Nina,Tablet,PR,4773.13,8
+2024-06-16,Luiza,Teclado,PR,5316.15,8
+2024-05-01,Olivia,Smartphone,PE,5582.74,4
+2024-11-22,Luigi,Tablet,RJ,5569.4,7
+2024-05-01,Luiza,Monitor,MG,820.2,3
+2024-12-23,Luiza,Mouse,PR,3562.06,6
+2025-03-05,Emanuel,Monitor,SC,591.4,9
+2024-07-05,Guilherme,Notebook,PR,3936.8,1
+2024-09-08,Nina,Notebook,BA,3202.41,5
+2024-05-21,Julia,Mouse,RS,6236.39,4
+2025-04-05,Davi,Teclado,RJ,2586.22,8
+2025-03-16,Nina,Impressora,SP,996.06,1
+2024-11-12,Benjamin,Smartphone,MG,1172.34,9
+2024-07-09,Luiza,Mouse,PE,5378.27,6
+2024-11-15,Nina,Smartphone,SC,4403.88,4
+2024-11-21,Enzo Gabriel,Tablet,RJ,887.63,9
+2024-04-20,Davi,Teclado,BA,771.93,5
+2024-12-01,Benjamin,Notebook,BA,4966.59,5
+2024-05-06,Enzo Gabriel,Teclado,PE,694.79,5
+2024-09-14,Emanuel,Monitor,RS,5788.65,1
+2024-12-16,Enzo Gabriel,Notebook,BA,5002.45,1
+2024-11-17,Maria Fernanda,Smartphone,PE,753.17,8
+2024-11-10,Davi,Impressora,RS,776.9,8
+2024-10-25,Olivia,Notebook,RJ,6909.15,6
+2024-08-05,Levi,Monitor,MG,2745.04,4
+2025-04-03,Enzo Gabriel,Notebook,RJ,2720.37,2
+2024-07-15,Julia,Mouse,PE,5727.04,2
+2024-06-23,Emanuel,Impressora,MG,6641.29,9
+2024-12-21,Olivia,Smartphone,PE,6904.81,5
+2025-01-08,Emanuel,Monitor,RJ,5322.97,4
+2024-08-05,Emanuel,Mouse,PR,2758.57,1
+2024-07-06,Luiza,Tablet,PR,767.8,7
+2024-07-17,Emanuel,Teclado,RJ,5484.6,3
+2024-09-05,Enzo Gabriel,Mouse,BA,3997.15,6
+2024-05-25,Levi,Tablet,BA,3084.71,5
+2024-12-21,Maria Fernanda,Monitor,MG,6363.21,5
+2024-12-11,Emanuel,Impressora,MG,956.14,5
+2024-07-30,Emanuel,Monitor,PR,3549.85,1
+2024-09-29,Nina,Monitor,RS,277.2,1
+2024-08-05,Luigi,Smartphone,RJ,3386.89,3
+2025-03-31,Julia,Monitor,RS,582.86,4
+2025-01-21,Marcos Vinicius,Teclado,MG,1007.96,5
+2025-04-03,Olivia,Smartphone,RS,999.18,2
+2024-05-03,Maria Fernanda,Monitor,PE,4614.63,8
+2024-04-08,Olivia,Smartphone,SP,5273.11,2
+2024-09-29,Luigi,Teclado,PR,4166.91,9
+2024-12-02,Olivia,Teclado,PR,6742.77,2
+2024-11-09,Marcos Vinicius,Mouse,PE,2749.12,9
+2024-05-13,Levi,Smartphone,MG,2142.84,7
+2024-05-03,Benjamin,Impressora,RJ,6106.47,8
+2024-10-30,Maria Fernanda,Notebook,RJ,1720.45,2
+2024-06-26,Maria Fernanda,Tablet,BA,6749.91,7
+2024-10-18,Marcos Vinicius,Impressora,SC,282.65,6
+2024-07-16,Guilherme,Impressora,PE,6795.18,4
+2024-05-26,Luigi,Impressora,SC,493.49,7
+2025-04-02,Julia,Monitor,SC,6259.77,4
+2024-08-18,Fernanda,Tablet,RJ,3788.37,2
+2025-03-13,Julia,Impressora,MG,6952.16,7
+2024-05-01,Enzo Gabriel,Teclado,PR,701.82,8
+2025-03-12,Luiza,Tablet,RJ,3966.21,2
+2024-07-08,Guilherme,Impressora,PE,6791.26,5
+2024-08-26,Emanuel,Notebook,PE,3757.07,1
+2024-07-24,Emanuel,Tablet,PR,4479.91,7
+2024-06-05,Enzo Gabriel,Mouse,MG,4931.09,8
+2024-09-22,Enzo Gabriel,Tablet,MG,3290.88,6
+2025-02-22,Nina,Impressora,MG,4467.39,5
+2024-11-01,Olivia,Teclado,SC,4173.34,6
+2025-01-03,Nina,Teclado,SP,6327.87,2
+2024-07-31,Marcos Vinicius,Mouse,RJ,509.04,1
+2024-11-28,Benjamin,Monitor,MG,2110.55,7
+2025-02-12,Julia,Impressora,BA,6662.8,7
+2024-12-14,Luigi,Smartphone,MG,6253.79,2
+2024-10-27,Julia,Monitor,MG,3298.47,2
+2024-04-08,Enzo Gabriel,Teclado,PR,4416.9,1
+2024-12-20,Julia,Monitor,RS,2086.19,8
+2025-02-16,Olivia,Tablet,PR,1479.22,8
+2024-11-06,Luigi,Tablet,BA,3353.15,1
+2024-07-30,Marcos Vinicius,Teclado,RJ,2602.8,8
+2025-04-01,Benjamin,Impressora,BA,4168.86,9
+2024-12-18,Guilherme,Teclado,RS,728.6,4
+2024-05-15,Davi,Monitor,BA,6825.88,1
+2025-04-04,Nina,Monitor,MG,6906.23,1
+2025-03-12,Olivia,Tablet,BA,4947.5,3
+2024-05-27,Marcos Vinicius,Impressora,RJ,3845.46,5
+2024-07-16,Emanuel,Smartphone,MG,2304.79,5
+2024-05-19,Fernanda,Mouse,MG,5733.81,9
+2025-03-16,Maria Fernanda,Smartphone,MG,4856.17,2
+2024-05-16,Nina,Teclado,PR,1305.8,2
+2025-01-18,Luiza,Monitor,SP,6394.3,6
+2024-11-05,Maria Fernanda,Smartphone,SP,5793.25,9
+2024-06-04,Davi,Impressora,RJ,6658.64,1
+2024-07-19,Nina,Impressora,SP,5134.89,9
+2024-07-23,Marcos Vinicius,Monitor,BA,4371.22,9
+2024-11-25,Julia,Notebook,RS,3044.05,9
+2024-06-25,Maria Fernanda,Tablet,SC,6542.55,5
+2025-01-08,Enzo Gabriel,Mouse,SP,6089.23,9
+2024-08-16,Julia,Monitor,PE,507.49,4
+2024-06-23,Benjamin,Mouse,BA,379.3,2
+2024-12-27,Marcos Vinicius,Impressora,BA,2759.95,6
+2024-12-07,Enzo Gabriel,Monitor,PE,5711.76,4
+2025-03-02,Julia,Monitor,RS,6913.48,6
+2024-07-16,Enzo Gabriel,Mouse,SC,1222.83,3
+2024-10-18,Olivia,Impressora,BA,4240.09,6
+2024-10-11,Nina,Impressora,PE,2790.06,2
+2024-07-11,Benjamin,Mouse,RJ,6795.42,2
+2025-03-22,Marcos Vinicius,Smartphone,SP,5926.41,9
+2025-03-23,Marcos Vinicius,Monitor,MG,5900.64,7
+2025-02-27,Emanuel,Notebook,PE,3387.11,3
+2024-04-24,Olivia,Smartphone,SC,3020.77,1
+2024-05-10,Olivia,Teclado,PE,2059.17,8
+2024-12-07,Luigi,Teclado,PE,583.35,6
+2024-09-16,Olivia,Tablet,RS,6080.11,7
+2025-02-21,Maria Fernanda,Impressora,PR,5727.73,9
+2024-07-21,Maria Fernanda,Notebook,MG,6998.08,5
+2024-04-22,Davi,Impressora,PR,6977.13,1
+2024-04-06,Marcos Vinicius,Impressora,PR,3976.94,7
+2024-08-12,Nina,Monitor,PR,5429.11,5
+2025-01-29,Guilherme,Notebook,SC,6624.41,3
+2024-05-25,Marcos Vinicius,Teclado,MG,5977.6,9
+2024-12-08,Julia,Monitor,PR,1881.97,1
+2024-07-15,Julia,Notebook,RJ,3263.7,1
+2024-06-06,Davi,Mouse,PR,1078.28,1
+2025-01-17,Luiza,Smartphone,RS,6687.55,3
+2024-09-23,Enzo Gabriel,Monitor,PE,4321.99,6
+2024-11-05,Maria Fernanda,Impressora,RJ,1754.77,3
+2025-01-04,Levi,Mouse,BA,4767.56,8
+2024-09-18,Davi,Smartphone,PE,4403.27,2
+2024-11-08,Marcos Vinicius,Notebook,RS,2635.51,9
+2024-04-08,Luiza,Monitor,MG,972.19,3
+2024-05-18,Luiza,Impressora,RJ,4766.7,5
+2024-05-04,Luigi,Tablet,SP,3738.09,8
+2025-03-13,Fernanda,Tablet,BA,5451.77,2
+2024-12-29,Benjamin,Teclado,SC,3737.11,6
+2025-03-22,Maria Fernanda,Mouse,SC,5994.83,5
+2024-06-01,Marcos Vinicius,Monitor,RS,3952.97,9
+2024-11-02,Benjamin,Mouse,MG,4014.38,5
+2024-04-18,Olivia,Notebook,PR,6161.24,2
+2025-02-23,Guilherme,Impressora,PR,2943.68,5
+2024-08-26,Nina,Tablet,RS,1111.3,4
+2024-11-17,Olivia,Impressora,MG,395.72,7
+2024-11-05,Levi,Mouse,PE,5334.93,6
+2024-06-01,Nina,Impressora,PE,4418.1,2
+2024-09-18,Luiza,Teclado,PE,4987.74,5
+2024-05-24,Enzo Gabriel,Monitor,BA,1648.16,7
+2024-04-21,Enzo Gabriel,Tablet,PE,1127.33,7
+2024-08-02,Julia,Mouse,SP,298.9,5
+2024-08-24,Olivia,Mouse,RJ,2584.0,9
+2025-03-20,Julia,Impressora,SC,4211.44,4
+2025-04-02,Benjamin,Monitor,PE,2867.26,3
+2025-02-08,Nina,Impressora,RS,3174.83,4
+2025-03-05,Luiza,Teclado,RS,6348.28,5
+2024-04-20,Davi,Notebook,PR,2568.14,6
+2025-03-20,Luigi,Teclado,SP,3695.13,3
+2024-08-21,Emanuel,Notebook,SP,5528.84,2
+2024-06-25,Nina,Smartphone,BA,2896.49,4
+2024-12-25,Benjamin,Mouse,PE,4430.19,5
+2024-07-10,Levi,Mouse,PE,6064.07,4
+2024-12-20,Benjamin,Tablet,BA,6656.74,3
+2024-05-14,Luiza,Smartphone,SP,1200.1,8
+2024-08-20,Marcos Vinicius,Mouse,RJ,6500.8,4
+2025-02-01,Luigi,Notebook,SC,3546.39,2
+2024-11-08,Julia,Monitor,MG,1956.06,2
+2025-03-14,Julia,Notebook,BA,3322.12,1
+2025-03-10,Fernanda,Impressora,PR,6864.22,4
+2024-09-09,Davi,Mouse,SC,3549.8,9
+2024-12-02,Luiza,Mouse,PR,2435.51,7
+2025-01-21,Julia,Impressora,SP,4507.13,7
+2024-06-04,Luigi,Notebook,SC,1832.99,7
+2025-03-30,Olivia,Monitor,SP,715.87,8
+2025-04-01,Maria Fernanda,Smartphone,RS,1076.38,1
+2024-07-05,Olivia,Mouse,PR,1070.71,8
+2025-03-06,Maria Fernanda,Tablet,BA,1232.94,4
+2024-06-07,Enzo Gabriel,Notebook,RJ,1144.02,4
+2025-02-09,Luigi,Notebook,SC,4557.95,4
+2025-02-13,Fernanda,Tablet,PE,1436.78,6
+2024-06-12,Nina,Impressora,BA,2550.54,7
+2025-03-13,Julia,Notebook,RJ,6298.16,6
+2024-09-12,Davi,Tablet,MG,3422.94,1
+2024-04-14,Levi,Tablet,RJ,4739.39,8
+2024-06-13,Emanuel,Tablet,SC,1371.78,7
+2025-01-16,Olivia,Monitor,PR,1507.57,6
+2025-03-30,Benjamin,Smartphone,PR,477.91,6
+2024-08-12,Julia,Smartphone,PR,1348.76,5
+2025-02-02,Julia,Teclado,MG,2094.41,6
+2025-04-01,Olivia,Monitor,RS,1403.67,9
+2024-09-11,Davi,Teclado,SC,803.18,9
+2025-02-10,Benjamin,Mouse,SP,1020.32,8
+2024-12-21,Fernanda,Impressora,SP,3333.3,9
+2025-03-06,Fernanda,Smartphone,SP,1603.07,8
+2025-01-15,Benjamin,Smartphone,MG,2677.04,8
+2025-02-13,Julia,Smartphone,PR,3623.24,1
+2024-07-10,Levi,Notebook,PE,4894.68,5
+2024-07-17,Luiza,Teclado,PE,467.32,4
+2024-06-05,Benjamin,Impressora,MG,5635.99,2
+2025-02-04,Olivia,Monitor,MG,4469.72,8
+2025-01-02,Julia,Teclado,PR,755.96,3
+2024-05-16,Luigi,Mouse,PR,6140.33,4
+2024-08-31,Fernanda,Smartphone,MG,6461.93,7
+2025-03-09,Julia,Monitor,SC,615.33,9
+2024-04-20,Levi,Teclado,BA,2082.77,2
+2025-03-04,Fernanda,Smartphone,PR,5682.17,3
+2024-10-04,Maria Fernanda,Smartphone,PE,5288.17,4
+2024-06-30,Davi,Monitor,BA,1454.74,1
+2024-06-21,Olivia,Mouse,PE,1623.58,7
+2025-02-16,Fernanda,Tablet,SP,2719.21,2
+2025-03-27,Olivia,Monitor,PR,3494.76,5
+2024-09-30,Marcos Vinicius,Tablet,PR,4404.13,1
+2024-08-18,Benjamin,Mouse,RJ,2708.61,3
+2024-08-01,Fernanda,Notebook,SC,3345.24,2
+2025-02-17,Olivia,Impressora,BA,5282.8,1
+2025-02-07,Enzo Gabriel,Monitor,SP,449.45,7
+2025-03-09,Levi,Tablet,PE,1916.57,5
+2024-07-02,Davi,Mouse,BA,5050.78,1
+2024-06-30,Luiza,Teclado,RS,6287.41,6
+2024-04-14,Davi,Smartphone,SP,3679.41,5
+2024-12-17,Guilherme,Notebook,PE,3818.37,3
+2024-06-19,Olivia,Monitor,MG,928.77,7
+2024-09-06,Olivia,Tablet,SC,3242.4,9
+2024-08-10,Davi,Teclado,MG,3821.8,9
+2024-07-22,Julia,Tablet,RS,1848.8,9
+2025-03-06,Guilherme,Mouse,SP,2030.85,2
+2024-05-01,Luigi,Monitor,RJ,2765.53,3
+2025-01-30,Marcos Vinicius,Mouse,RS,336.48,7
+2024-07-22,Davi,Tablet,SP,2390.14,5
+2024-08-19,Fernanda,Monitor,PE,1637.85,2
+2024-12-10,Davi,Impressora,PR,2426.98,3
+2024-10-19,Olivia,Tablet,SC,1014.38,6
+2024-09-07,Olivia,Smartphone,MG,6255.59,7
+2024-12-24,Luiza,Monitor,SC,4236.43,9
+2025-02-26,Maria Fernanda,Impressora,RS,4817.9,1
+2024-10-30,Olivia,Monitor,SC,5566.36,7
+2024-08-11,Levi,Notebook,PE,3589.41,8
+2025-04-04,Luigi,Smartphone,SP,791.06,3
+2024-04-15,Marcos Vinicius,Monitor,MG,3852.32,4
+2024-05-19,Davi,Teclado,RS,4190.52,6
+2025-03-11,Enzo Gabriel,Tablet,PR,5268.99,7
+2024-07-15,Fernanda,Teclado,PE,3135.28,4
+2024-06-13,Marcos Vinicius,Tablet,SC,1067.55,8
+2024-11-16,Luigi,Mouse,PR,2129.68,5
+2024-07-17,Maria Fernanda,Tablet,MG,2668.96,1
+2024-04-19,Nina,Notebook,PE,4592.24,4
+2024-05-17,Levi,Impressora,PR,4081.29,3
+2024-11-22,Maria Fernanda,Mouse,PR,2621.46,9
+2024-09-20,Davi,Monitor,BA,6908.3,8
+2024-08-17,Nina,Tablet,PE,4319.27,1
+2025-01-12,Luigi,Notebook,RS,1813.14,6
+2025-02-04,Luiza,Teclado,RS,892.12,9
+2024-08-04,Enzo Gabriel,Impressora,BA,1239.44,7
+2024-09-21,Julia,Mouse,BA,1872.51,4
+2024-11-26,Marcos Vinicius,Impressora,RS,1292.63,1
+2024-10-20,Benjamin,Mouse,BA,1468.66,2
+2024-05-19,Emanuel,Notebook,BA,2138.65,5
+2024-09-01,Marcos Vinicius,Teclado,RS,1378.94,5
+2025-03-20,Luiza,Mouse,PE,6298.0,8
+2024-11-14,Enzo Gabriel,Monitor,PR,745.59,6
+2024-06-17,Emanuel,Impressora,PE,3766.68,8
+2024-07-12,Levi,Tablet,PR,2990.7,2
+2024-04-22,Luigi,Impressora,BA,6880.17,3
+2025-01-05,Olivia,Impressora,BA,961.86,6
+2024-09-21,Fernanda,Smartphone,RJ,2905.42,3
+2024-04-05,Luigi,Teclado,SC,6792.4,6
+2024-10-23,Levi,Impressora,SC,6085.45,6
+2025-03-30,Emanuel,Tablet,PR,5756.09,2
+2025-02-12,Nina,Smartphone,MG,1953.74,7
+2024-10-31,Enzo Gabriel,Mouse,BA,1362.04,2
+2024-12-27,Levi,Smartphone,SP,4746.77,6
+2025-01-09,Julia,Teclado,BA,6519.76,1
+2025-04-05,Emanuel,Tablet,RJ,3985.99,3
+2025-01-18,Olivia,Mouse,PR,4086.97,2
+2025-01-16,Marcos Vinicius,Impressora,PE,2103.86,7
+2024-12-21,Luiza,Mouse,BA,5432.55,4
+2024-06-20,Olivia,Impressora,PE,1471.9,8
+2024-08-24,Levi,Mouse,RS,2401.02,6
+2024-09-19,Luiza,Mouse,RS,3092.97,4
+2024-05-02,Nina,Impressora,BA,3651.75,5
+2024-12-18,Julia,Smartphone,BA,1848.39,9
+2025-03-28,Fernanda,Mouse,MG,980.89,7
+2024-08-11,Nina,Notebook,RJ,4352.22,9
+2024-12-03,Maria Fernanda,Mouse,RS,2162.69,7
+2024-08-04,Olivia,Mouse,RS,4152.42,1
+2024-12-18,Olivia,Notebook,SP,1249.67,8
+2025-02-28,Olivia,Tablet,RS,3471.75,4
+2024-05-23,Maria Fernanda,Impressora,RS,3821.61,3
+2025-01-09,Olivia,Monitor,SP,552.4,7
+2025-03-20,Luigi,Notebook,RJ,2488.91,3
+2024-07-30,Levi,Teclado,SC,1114.02,8
+2024-10-18,Enzo Gabriel,Tablet,PR,630.95,6
+2024-08-03,Maria Fernanda,Mouse,PE,6931.73,5
+2024-12-19,Julia,Smartphone,RJ,2392.01,4
+2024-09-10,Luigi,Notebook,MG,5707.15,8
+2024-08-09,Emanuel,Tablet,SP,1931.56,8
+2024-09-08,Luigi,Tablet,MG,4834.22,1
+2024-12-31,Maria Fernanda,Mouse,SC,5369.55,9
+2024-07-28,Davi,Monitor,PE,4250.34,5
+2024-11-06,Enzo Gabriel,Smartphone,PE,3406.72,4
+2024-05-24,Olivia,Smartphone,RS,3000.52,6
+2024-06-18,Julia,Smartphone,BA,2572.3,6
+2024-09-15,Marcos Vinicius,Impressora,PR,6520.8,2
+2024-12-19,Nina,Teclado,BA,5848.21,8
+2025-04-05,Marcos Vinicius,Tablet,SP,6762.18,7
+2024-08-30,Maria Fernanda,Teclado,RJ,1045.22,1
+2024-12-24,Levi,Teclado,RS,5169.9,5
+2025-01-20,Luigi,Tablet,SP,6580.72,6
+2025-03-21,Levi,Impressora,MG,1432.38,4
+2024-06-11,Olivia,Smartphone,SC,652.17,2
+2024-11-30,Marcos Vinicius,Tablet,MG,5239.62,4
+2024-11-12,Nina,Impressora,SP,4106.42,1
+2024-07-30,Benjamin,Monitor,SC,5924.44,7
+2024-09-09,Olivia,Impressora,PE,1150.45,2
+2024-11-03,Levi,Tablet,MG,5607.82,2
+2025-02-22,Maria Fernanda,Mouse,BA,1571.07,9
+2024-04-05,Levi,Impressora,SP,1312.86,5
+2024-08-01,Maria Fernanda,Tablet,SP,1317.01,2
+2024-07-25,Olivia,Impressora,BA,5739.11,9
+2024-06-25,Julia,Notebook,RJ,4723.34,9
+2024-09-18,Benjamin,Monitor,PR,3756.84,1
+2025-02-04,Emanuel,Notebook,BA,2640.05,3
+2024-11-16,Emanuel,Smartphone,PE,6164.96,4
+2024-11-26,Marcos Vinicius,Impressora,PE,2868.63,7
+2024-12-15,Levi,Smartphone,MG,5752.88,4
+2024-08-08,Nina,Impressora,PE,3186.12,2
+2024-10-02,Davi,Mouse,BA,2763.22,7
+2024-09-23,Luiza,Mouse,RS,3346.22,6
+2024-09-23,Marcos Vinicius,Mouse,RJ,2249.37,3
+2024-12-23,Marcos Vinicius,Monitor,PR,5283.74,6
+2024-06-26,Olivia,Impressora,MG,3618.5,6
+2024-10-20,Levi,Impressora,PE,1779.05,5
+2024-10-05,Fernanda,Teclado,BA,6317.11,4
+2025-02-07,Emanuel,Tablet,MG,2810.46,1
+2025-03-20,Emanuel,Notebook,SP,3896.16,6
+2025-02-08,Maria Fernanda,Impressora,PR,6364.01,2
+2025-01-15,Luigi,Monitor,BA,4444.82,3
+2024-06-09,Guilherme,Notebook,RS,994.91,8
+2024-12-16,Guilherme,Tablet,MG,6590.86,6
+2024-05-07,Guilherme,Teclado,SC,4468.41,3
+2024-07-24,Maria Fernanda,Notebook,SC,2477.36,7
+2024-10-22,Olivia,Monitor,PR,1147.05,4
+2024-12-18,Nina,Tablet,RJ,5599.37,9
+2024-12-06,Guilherme,Mouse,SC,4416.49,5
+2024-12-01,Fernanda,Mouse,RJ,3827.54,3
+2024-08-13,Julia,Mouse,MG,6278.47,2
+2024-05-11,Fernanda,Tablet,MG,5562.46,2
+2025-02-16,Olivia,Teclado,PE,1231.39,3
+2025-01-21,Benjamin,Monitor,PR,2319.71,2
+2024-07-05,Maria Fernanda,Impressora,RS,1889.73,4
+2024-12-22,Enzo Gabriel,Mouse,SP,5258.83,2
+2024-08-03,Marcos Vinicius,Tablet,BA,428.02,9
+2024-07-01,Nina,Notebook,SC,4075.25,2
+2025-02-12,Maria Fernanda,Mouse,RS,5384.72,9
+2024-06-21,Maria Fernanda,Smartphone,PE,6162.01,6
+2024-06-01,Emanuel,Monitor,BA,2526.16,1
+2024-04-14,Luigi,Notebook,PR,5784.55,4
+2024-04-22,Enzo Gabriel,Teclado,BA,952.3,1
+2024-07-09,Davi,Teclado,SP,5955.88,6
+2024-10-06,Fernanda,Tablet,BA,1066.92,4
+2024-11-28,Olivia,Teclado,PR,2901.55,3
+2025-03-01,Maria Fernanda,Smartphone,RS,5621.61,3
+2025-01-28,Marcos Vinicius,Mouse,SP,1219.44,9
+2024-05-03,Olivia,Notebook,RJ,1758.91,6
+2024-09-28,Fernanda,Mouse,PE,5111.32,9
+2024-09-12,Olivia,Impressora,BA,5096.25,5
+2025-03-15,Benjamin,Monitor,MG,4559.8,2
+2024-12-05,Luiza,Mouse,SC,4918.85,8
+2024-11-14,Luiza,Tablet,BA,3890.53,5
+2024-06-19,Olivia,Mouse,RJ,1912.23,2
+2025-01-08,Guilherme,Monitor,BA,2550.73,4
+2024-12-31,Emanuel,Notebook,PR,1434.86,9
+2024-09-01,Davi,Smartphone,RS,6377.46,4
+2024-10-13,Fernanda,Notebook,RS,4167.06,4
+2024-09-07,Enzo Gabriel,Notebook,MG,2925.79,2
+2024-07-08,Guilherme,Tablet,PE,3341.64,6
+2024-06-01,Levi,Monitor,MG,6641.53,2
+2024-12-15,Julia,Notebook,PE,1242.79,7
+2024-12-28,Maria Fernanda,Notebook,PR,4186.36,3
+2024-04-07,Emanuel,Smartphone,SC,3640.04,3
+2025-03-17,Olivia,Teclado,PE,4357.89,5
+2025-01-21,Olivia,Smartphone,RS,323.15,3
+2025-03-05,Olivia,Monitor,RS,6130.44,2
+2025-01-29,Levi,Monitor,RJ,6538.4,9
+2025-03-14,Guilherme,Tablet,PE,4042.91,2
+2024-05-16,Levi,Mouse,PR,4937.23,2
+2025-02-01,Olivia,Mouse,RJ,6473.0,8
+2024-09-17,Benjamin,Mouse,RJ,5009.22,9
+2024-06-28,Maria Fernanda,Teclado,SP,1237.27,7
+2024-06-12,Olivia,Monitor,RS,4118.76,3
+2025-02-11,Luiza,Teclado,MG,4325.66,9
+2024-12-31,Julia,Mouse,MG,3084.09,3
+2024-10-23,Fernanda,Mouse,PR,5207.82,5
+2024-10-02,Davi,Smartphone,PE,6553.7,9
+2024-04-24,Fernanda,Monitor,RJ,6493.87,3
+2024-11-07,Julia,Mouse,RS,3265.71,7
+2024-07-10,Enzo Gabriel,Notebook,PE,970.02,1
+2025-03-27,Fernanda,Impressora,RJ,6896.92,4
+2025-02-28,Levi,Monitor,PE,5904.51,4
+2024-05-22,Olivia,Teclado,SP,1047.71,7
+2024-09-29,Benjamin,Monitor,PE,6461.72,8
+2024-05-26,Fernanda,Tablet,MG,6115.3,1
+2025-02-10,Olivia,Notebook,SC,3728.1,5
+2024-10-02,Nina,Mouse,PE,4220.67,7
+2024-12-20,Guilherme,Tablet,SP,2913.22,4
+2024-10-28,Luiza,Smartphone,PE,572.38,4
+2024-11-08,Nina,Monitor,BA,2479.34,4
+2024-11-22,Olivia,Monitor,SP,5659.4,6
+2024-08-06,Julia,Smartphone,SC,231.5,7
+2025-01-23,Davi,Impressora,BA,2467.79,2
+2025-03-17,Enzo Gabriel,Tablet,SP,2907.55,5
+2024-09-23,Guilherme,Notebook,RS,3854.29,4
+2024-11-28,Benjamin,Mouse,RJ,6455.02,3
+2025-02-15,Fernanda,Tablet,SP,2555.15,7
+2025-01-09,Guilherme,Teclado,SC,2559.28,6
+2025-03-17,Maria Fernanda,Mouse,PR,5215.01,7
+2024-10-18,Nina,Tablet,RJ,3275.08,5
+2024-09-17,Nina,Notebook,SP,1727.31,6
+2025-02-21,Emanuel,Monitor,RJ,3276.59,5
+2025-03-23,Luigi,Tablet,PE,1157.83,7
+2024-11-03,Fernanda,Smartphone,SP,1399.43,2
+2024-09-25,Julia,Notebook,BA,3588.9,5
+2025-03-19,Guilherme,Impressora,SC,3048.69,6
+2024-06-05,Emanuel,Impressora,MG,6420.95,6
+2025-01-18,Davi,Monitor,MG,2664.28,5
+2025-03-05,Olivia,Notebook,SC,4148.0,7
+2024-10-06,Julia,Mouse,PR,4499.4,8
+2024-09-26,Nina,Smartphone,SC,289.04,7
+2024-07-14,Levi,Mouse,PE,4712.05,5
+2025-01-21,Davi,Mouse,SC,1410.64,1
+2024-07-10,Julia,Teclado,SC,6735.28,5
+2025-02-25,Nina,Notebook,RJ,1210.91,2
+2024-12-08,Guilherme,Notebook,MG,3019.44,5
+2024-07-21,Julia,Impressora,PR,780.38,5
+2025-01-27,Benjamin,Tablet,RJ,6978.74,2
+2025-02-01,Olivia,Smartphone,MG,3614.93,5
+2024-10-24,Davi,Smartphone,SC,4248.62,4
+2024-10-10,Guilherme,Impressora,MG,656.12,1
+2024-12-04,Guilherme,Teclado,RS,5299.73,3
+2024-07-06,Marcos Vinicius,Smartphone,SP,1627.36,1
+2024-07-20,Fernanda,Notebook,SP,6306.77,5
+2024-09-22,Olivia,Impressora,BA,1594.95,4
+2024-05-05,Davi,Impressora,PE,1496.68,7
+2025-01-07,Maria Fernanda,Teclado,SC,448.54,5
+2024-07-24,Marcos Vinicius,Smartphone,SC,3410.06,4
+2024-07-05,Fernanda,Teclado,RS,4040.92,2
+2024-07-19,Fernanda,Smartphone,RS,646.82,4
+2024-08-13,Nina,Impressora,PE,5473.59,2
+2024-08-07,Guilherme,Impressora,PR,3282.36,8
+2025-03-17,Maria Fernanda,Smartphone,MG,3765.85,3
+2024-10-31,Olivia,Tablet,BA,3197.19,9
+2024-05-06,Marcos Vinicius,Impressora,RS,2925.19,4
+2024-05-28,Guilherme,Smartphone,RJ,4005.55,6
+2024-06-02,Enzo Gabriel,Impressora,SP,1255.63,5
+2024-07-03,Olivia,Teclado,SC,1437.11,1
+2024-08-31,Marcos Vinicius,Notebook,SP,6060.14,9
+2024-12-30,Olivia,Tablet,RS,6633.59,1
+2024-06-03,Marcos Vinicius,Impressora,RS,2738.5,8
+2025-01-04,Luigi,Smartphone,RJ,2041.06,9
+2024-06-27,Luigi,Smartphone,RJ,4579.2,9
+2024-04-29,Julia,Teclado,SP,2979.39,1
+2024-09-13,Nina,Tablet,PE,372.63,2
+2024-09-10,Enzo Gabriel,Impressora,SP,1261.84,1
+2024-08-11,Benjamin,Smartphone,RS,5068.61,2
+2024-11-01,Benjamin,Notebook,SP,4680.68,8
+2024-10-02,Olivia,Mouse,SC,384.25,5
+2024-09-13,Levi,Impressora,PE,1709.41,7
+2024-04-29,Olivia,Notebook,RS,1771.31,2
+2024-06-24,Benjamin,Smartphone,RS,4768.87,8
+2025-02-22,Olivia,Notebook,SP,334.03,6
+2024-09-15,Olivia,Tablet,MG,907.94,8
+2024-09-03,Enzo Gabriel,Impressora,BA,5639.43,1
+2025-03-22,Levi,Impressora,RS,1414.1,1
+2025-01-28,Levi,Smartphone,PR,4638.67,7
+2024-11-17,Luigi,Teclado,PR,1819.64,8
+2024-12-31,Nina,Tablet,RS,876.2,3
+2024-04-12,Guilherme,Notebook,BA,1853.57,5
+2025-03-03,Levi,Smartphone,MG,5111.42,1
+2025-03-13,Luiza,Tablet,RS,6018.74,7
+2025-01-27,Olivia,Notebook,SC,5845.5,5
+2024-11-14,Davi,Smartphone,BA,2900.85,8
+2024-08-30,Levi,Mouse,BA,4742.98,8
+2024-10-07,Levi,Monitor,SP,1593.89,9
+2024-04-07,Julia,Teclado,MG,2193.4,7
+2024-08-19,Fernanda,Notebook,SC,6295.08,1
+2024-07-29,Emanuel,Mouse,PE,288.41,3
+2025-01-22,Olivia,Notebook,SP,781.46,8
+2024-09-03,Luiza,Monitor,PR,1613.63,3
+2025-03-02,Davi,Monitor,SC,380.42,8
+2025-03-17,Julia,Impressora,PR,1433.76,1
+2025-02-23,Fernanda,Tablet,SC,4164.68,5
+2024-09-14,Emanuel,Teclado,SC,3065.69,4
+2024-10-31,Levi,Teclado,MG,6270.17,5
+2025-01-20,Guilherme,Notebook,BA,5758.62,8
+2025-01-15,Luiza,Monitor,SC,2524.36,4
+2024-11-03,Luigi,Teclado,MG,1964.08,4
+2025-02-09,Marcos Vinicius,Smartphone,PE,2781.91,3
+2024-11-25,Fernanda,Teclado,RS,4214.01,7
+2025-03-19,Levi,Notebook,RS,2022.83,3
+2024-06-29,Davi,Mouse,BA,4444.21,3
+2024-10-11,Julia,Impressora,MG,2984.0,5
+2024-06-29,Davi,Impressora,PE,3953.92,5
+2024-07-19,Levi,Mouse,SP,3165.66,6
+2024-09-21,Nina,Teclado,SC,2202.37,8
+2024-10-10,Olivia,Tablet,SC,6649.48,6
+2024-04-16,Olivia,Monitor,MG,5392.52,1
+2024-09-03,Nina,Mouse,SC,1152.77,8
+2024-08-13,Fernanda,Notebook,RS,6105.58,8
+2024-12-20,Emanuel,Notebook,BA,3514.53,9
+2024-12-24,Julia,Monitor,RS,6282.96,9
+2025-02-08,Olivia,Impressora,PR,5639.02,2
+2024-09-09,Guilherme,Monitor,RJ,3091.45,2
+2025-01-11,Olivia,Monitor,PE,352.79,3
+2024-06-08,Marcos Vinicius,Mouse,PR,2027.01,1
+2025-02-25,Levi,Notebook,RJ,3883.11,4
+2024-10-03,Guilherme,Monitor,RS,4507.65,4
+2025-03-28,Luiza,Mouse,SP,1953.64,9
+2024-05-24,Levi,Monitor,BA,1147.62,9
+2024-12-02,Luigi,Notebook,SC,5877.53,9
+2024-10-29,Maria Fernanda,Notebook,SP,6893.93,7
+2024-04-15,Maria Fernanda,Tablet,RJ,3774.69,2
+2025-03-23,Fernanda,Teclado,RS,1367.42,5
+2024-09-05,Levi,Smartphone,RS,2051.69,4
+2024-11-20,Olivia,Notebook,PE,325.06,8
+2024-11-10,Benjamin,Smartphone,RS,6417.23,2
+2024-12-18,Davi,Tablet,PR,1000.71,6
+2024-04-15,Guilherme,Teclado,BA,4120.31,5
+2024-05-07,Julia,Mouse,SP,2063.58,2
+2024-12-10,Benjamin,Teclado,RS,3968.41,1
+2024-09-18,Emanuel,Teclado,RS,4629.66,8
+2024-05-27,Nina,Mouse,RJ,5842.24,2
+2025-03-07,Luiza,Tablet,PE,1603.66,7
+2024-10-01,Julia,Monitor,RS,274.77,9
+2024-06-14,Levi,Teclado,RS,1130.82,9
+2024-04-24,Emanuel,Teclado,SC,6320.13,8
+2024-07-15,Emanuel,Tablet,RS,6142.45,9
+2024-08-30,Maria Fernanda,Monitor,PR,4262.41,2
+2024-08-10,Luiza,Teclado,BA,4283.51,6
+2024-06-26,Enzo Gabriel,Teclado,SC,4722.25,4
+2024-09-28,Maria Fernanda,Monitor,PE,1392.52,4
+2024-08-09,Levi,Notebook,PR,6418.0,5
+2024-08-14,Benjamin,Impressora,BA,3047.64,3
+2025-01-25,Davi,Mouse,BA,2805.34,1
+2025-03-12,Guilherme,Notebook,PR,3728.64,8
+2024-08-30,Benjamin,Impressora,PE,519.37,5
+2024-07-22,Luiza,Mouse,PE,1330.73,3
+2025-01-22,Marcos Vinicius,Mouse,RJ,5218.63,7
+2025-02-22,Levi,Impressora,PE,763.03,7
+2024-09-15,Luigi,Teclado,PR,4301.43,1
+2024-07-11,Olivia,Mouse,RS,1868.37,9
+2025-02-23,Guilherme,Impressora,PR,2847.21,2
+2024-05-06,Luigi,Smartphone,PR,2163.12,5
+2024-10-04,Luigi,Monitor,SC,2618.57,5
+2024-04-12,Fernanda,Monitor,SP,5089.51,8
+2025-01-20,Julia,Smartphone,RS,2220.43,8
+2024-10-31,Levi,Monitor,MG,4051.55,7
+2024-04-25,Marcos Vinicius,Tablet,SP,3437.14,7
+2024-08-18,Fernanda,Impressora,BA,4712.96,6
+2024-07-01,Davi,Monitor,SC,6570.44,6
+2024-12-13,Levi,Monitor,BA,5181.49,9
+2024-05-01,Marcos Vinicius,Monitor,MG,1661.59,6
+2025-02-02,Davi,Mouse,RS,412.05,2
+2024-12-14,Enzo Gabriel,Notebook,PR,1983.4,2
+2024-04-20,Guilherme,Tablet,RS,4246.53,5
+2025-01-22,Luiza,Monitor,SC,549.7,4
+2024-04-17,Olivia,Tablet,RS,3575.29,2
+2024-07-10,Nina,Mouse,PE,4258.53,3
+2024-06-21,Luiza,Tablet,PR,2472.86,7
+2025-02-24,Luigi,Tablet,BA,5442.2,8
+2024-04-12,Olivia,Smartphone,PE,924.87,6
+2024-12-02,Maria Fernanda,Mouse,PE,710.94,5
+2024-06-03,Enzo Gabriel,Monitor,PE,5151.68,1
+2024-07-06,Fernanda,Notebook,MG,3569.34,8
+2024-05-24,Maria Fernanda,Notebook,PR,4881.14,3
+2024-10-05,Luiza,Impressora,MG,3156.83,6
+2024-12-20,Fernanda,Notebook,MG,1875.53,3
+2024-05-19,Luiza,Notebook,PE,5769.9,7
+2024-11-10,Olivia,Monitor,MG,5636.03,7
+2024-06-28,Olivia,Notebook,SP,4923.94,9
+2024-10-02,Davi,Mouse,SP,2050.59,5
+2025-01-01,Luiza,Mouse,RJ,4213.57,8
+2024-07-13,Emanuel,Tablet,SP,2654.62,8
+2025-01-27,Benjamin,Impressora,SP,822.76,1
+2024-08-26,Olivia,Smartphone,SC,6437.73,5
+2024-06-09,Benjamin,Teclado,MG,1130.37,3
+2024-11-26,Guilherme,Notebook,RS,6661.61,1
+2024-11-26,Maria Fernanda,Teclado,RJ,3232.84,4
